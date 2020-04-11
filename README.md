@@ -1,3 +1,1 @@
-# Rules-
-Welcome
-Welcome1
+# Rules
